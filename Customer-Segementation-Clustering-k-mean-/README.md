@@ -29,6 +29,7 @@ TABLE OF CONTENTS
 10. END
 
 
+![image](https://user-images.githubusercontent.com/121180975/209082259-debea5a4-bca7-42ca-99c6-b61b54250b16.png)
 
 Data Definition (Customer finance data)
 
