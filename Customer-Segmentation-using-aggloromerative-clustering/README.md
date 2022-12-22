@@ -28,6 +28,8 @@ CONCLUSION
 
 END
 
+![image](https://user-images.githubusercontent.com/121180975/209082470-b84d0cc0-c877-45c7-b08d-18b17016bb89.png)
+
 Data Definition (Customer finance data)
 
 Here's a brief version of what you'll find in the data
