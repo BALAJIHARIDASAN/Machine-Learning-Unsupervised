@@ -1,7 +1,7 @@
 # Machine-Learning-Unsupervised
 
 
-![](https://github.com/BALAJIHARIDASAN/Machine-Learning-Unsupervised/blob/main/un.png)
+![](https://github.com/BALAJIHARIDASAN/Machine-Learning-Unsupervised/blob/main/un.jpeg)
 
 
 
